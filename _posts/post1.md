@@ -1,6 +1,6 @@
 ---
 title: "NHN 입문교육 후기"
-excerpt: "" 
+excerpt: "입문교육" 
 
 categories:
   - NHN
