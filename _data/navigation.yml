@@ -3,10 +3,8 @@ main:
   - title: "Home"
     url: https://heon24500.github.io
   - title: "About"
-    url: /about/
-  # - title: "Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /about
+  - title: "Categories"
+    url: /categories
+  - title: "Tags"
+    url: /tags
